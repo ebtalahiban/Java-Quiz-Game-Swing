@@ -26,7 +26,7 @@ To execute JAR file in the command prompt :
 java -jar ..*FILE_PATH*..\out\artifacts\VirtualUniversityOfProgramming_jar\VirtualUniversityOfProgramming.jar
 
 [SAMPLE]
-java -jar C:\Users\Erica\Desktop\VirtualUniversityOfProgramming\out\artifacts\VirtualUniversityOfProgramming_jar\VirtualUniversityOfProgramming.jar
+java -jar C:\Users\User\Desktop\VirtualUniversityOfProgramming\out\artifacts\VirtualUniversityOfProgramming_jar\VirtualUniversityOfProgramming.jar
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ To open the executable file in the command prompt :
 start ..*FILE_PATH*..\VirtualUniversityOfProgramming.exe
 
 [SAMPLE]
-start C:\Users\Erica\Desktop\VirtualUniversityOfProgramming\VirtualUniversityOfProgramming.exe
+start C:\Users\User\Desktop\VirtualUniversityOfProgramming\VirtualUniversityOfProgramming.exe
